@@ -29,3 +29,5 @@
 ## structs.rs
 
 ## enums.rs
+
+## cli.rs
