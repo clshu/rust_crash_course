@@ -19,3 +19,5 @@
 ## vector.rs
 
 ## conditionals.rs
+
+## loops.rs
