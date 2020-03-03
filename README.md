@@ -25,3 +25,5 @@
 ## functions.rs
 
 ## pointer_ref.rs
+
+## structs.rs
