@@ -27,3 +27,5 @@
 ## pointer_ref.rs
 
 ## structs.rs
+
+## enums.rs
