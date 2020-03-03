@@ -13,3 +13,5 @@
 ## string.rs
 
 ## tuples.rs
+
+## arrays.rs
