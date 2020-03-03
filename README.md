@@ -21,3 +21,5 @@
 ## conditionals.rs
 
 ## loops.rs
+
+## functions.rs
